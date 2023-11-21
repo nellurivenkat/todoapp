@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/nellurivenkat/todoapp/static/js/main.187a43cb.js",
-    "index.html": "/nellurivenkat/todoapp/index.html",
-    "main.187a43cb.js.map": "/nellurivenkat/todoapp/static/js/main.187a43cb.js.map"
+    "main.js": "/todoapp/static/js/main.187a43cb.js",
+    "index.html": "/todoapp/index.html",
+    "main.187a43cb.js.map": "/todoapp/static/js/main.187a43cb.js.map"
   },
   "entrypoints": [
     "static/js/main.187a43cb.js"
